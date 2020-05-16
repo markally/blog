@@ -1,0 +1,4 @@
+baseURL = "https://markally.com"
+languageCode = "en-us"
+title = "My Blog"
+theme = "ghostwriter"
