@@ -24,6 +24,10 @@ Buy a bunch of books.
 
 Since it's harder to learn from myself and my peers, let's learn from experts instead. I scoured blog posts, reddit, hackernews and reading lists to get a set of books I thought would be helpful. This blog is meant to be a way to hold myself accountable to reading them, and to do the deep thinking required to write about them.
 
+That's all I've got for now! Over the next weeks and months I'll make posts about each of these books, along with how they've been helpful for me in practice.
+
+## The Books
+
 Here's the list of books in no particular order, along with the publisher's description. 
 
 [Elastic Leadership: Growing self-organizing teams](https://smile.amazon.com/dp/1617293083): Elastic leadership is a framework and philosophy that can help you as you manage day-to-day and long-term challenges and strive to create the elusive self-organizing team. It is about understanding that your leadership needs to change based on which phase you discover that your team is in. This book provides you with a set of values, techniques, and practices to use in your leadership role.
