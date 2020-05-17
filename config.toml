@@ -35,6 +35,7 @@ copyright = "Mark Ally"  # ghostwriter template doesn't use this
     shareGooglePlus = false
     shareLinkedIn = false
     dateFormat = "Mon, Jan 2, 2006"
+    utterancesRepo = "markally/blog"
 
 [Permalinks]
     posts = "/:year/:month/:day/:filename/"
