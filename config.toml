@@ -2,3 +2,39 @@ baseURL = "https://markally.com/"
 languageCode = "en-us"
 title = "My Blog"
 theme = "ghostwriter"
+copyright = "Mark Ally"  # ghostwriter template doesn't use this
+
+[Privacy]
+
+[Privacy.disqus]
+    disable = true
+
+[Privacy.googleAnalytics]
+    anonymizeIP = true
+    respectDoNotTrack = true
+    useSessionStorage = false
+
+[Author]
+    name = "Mark Ally"
+
+[Taxonomies]
+    tag = "tags"
+
+[Params]
+    mainSections = ["posts"]
+    intro = true
+    headline = "Mark's Blog"
+    description = "Thoughts on leadership, machine learning, and random topics."
+    # github = "https://github.com/markally/"
+    # linkedin = "https://www.linkedin.com/in/markally/"
+    # twitter = "https://twitter.com/markaally"
+    email = "mark.a.ally@gmail.com"
+    opengraph = false
+    shareTwitter = true
+    shareFacebook = true
+    shareGooglePlus = false
+    shareLinkedIn = false
+    dateFormat = "Mon, Jan 2, 2006"
+
+[Permalinks]
+    posts = "/:year/:month/:day/:filename/"
