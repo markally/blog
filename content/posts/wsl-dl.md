@@ -1,7 +1,7 @@
 ---
 title: "Deep Learning on Windows Subsystem for Linux"
 date: 2020-08-16T18:30:52-07:00
-draft: true
+draft: false
 ---
 
 I wanted to do some side projects in deep learning (DL).
